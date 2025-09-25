@@ -6,6 +6,6 @@ fun main() {
     val passFinalExam = finalExamPoint > 90
 
     val pass = passQuiz && passFinalExam
-    
+
     println("You: $pass")
 }
